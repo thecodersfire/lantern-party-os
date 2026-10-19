@@ -3,3 +3,8 @@ com.valvesoftware.Steam
 org.videolan.VLC
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+com.heroicgameslauncher.hgl
+net.lutris.Lutris
+com.usebottles.bottles

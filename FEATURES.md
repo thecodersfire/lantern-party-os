@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/lantern-party-os-workspace features/lantern-party-os-plan features/lantern-party-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for LAN gaming:
+
+1. **Heroic Games Launcher** — com.heroicgameslauncher.hgl
+2. **Lutris** — net.lutris.Lutris
+3. **Bottles** — com.usebottles.bottles
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

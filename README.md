@@ -24,3 +24,9 @@ The `lantern-party.svg` wallpaper is original. Lantern Party OS is an independen
 
 See [FEATURES.md](FEATURES.md) for three local tools included for LAN gaming.
 
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
